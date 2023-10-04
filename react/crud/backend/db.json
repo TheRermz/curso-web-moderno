@@ -2,13 +2,13 @@
   "users": [
     {
       "id": 1,
-      "name": "Arthur Oliveira",
-      "email": "aoliveira@cod3r.com.br"
+      "name": "Arthur Oliveira Jr",
+      "email": "aoliveirajr@cod3r.com.br"
     },
     {
-      "id": 2,
-      "name": "Maria Júlia da Silva",
-      "email": "mjds@empresa.com"
+      "name": "Murilo Fischer",
+      "email": "mfischer74@gmail.com",
+      "id": 2
     }
   ]
 }
